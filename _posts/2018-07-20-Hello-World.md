@@ -1,5 +1,6 @@
 ---
 published: false
+category: Happy
 ---
 ## A ![spiritual_enlightenment_by_renjuart-d8qjv4l.jpg]({{site.baseurl}}/_posts/spiritual_enlightenment_by_renjuart-d8qjv4l.jpg)
  Post
